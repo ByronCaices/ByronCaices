@@ -7,7 +7,7 @@
 ## ⚡ Herramientas Utilizadas
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,postgres,html,css,js,vue,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=py,java,spring,postgres,html,css,js,vue,nodejs,figma,ps" />
   </a>
   
   <a href="https://skillicons.dev">
@@ -15,7 +15,7 @@
   </a>
 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git" />
+    <img src="https://skillicons.dev/icons?i=linux,vscode,git,replit,postman" />
   </a>
   
 </p>
