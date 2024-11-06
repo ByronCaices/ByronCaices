@@ -2,22 +2,29 @@
 ## 🌱 Un poco sobre mí ...
 
 - 🎓 Estudio en la Universidad de Santiago de Chile
-- 💻 Actualmente trabajando en Sistema de Gestión de Gastos Comunes 
+- 💻 Actualmente trabajando en Sistema ERP
 
 ## ⚡ Herramientas Utilizadas
+
+
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=py,java,spring,postgres,html,css,js,vue,nodejs,figma,ps" />
+    <img src="https://skillicons.dev/icons?i=py,go,java,spring,postgres,nodejs" />
   </a>
-  
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cpp,c,r" />
-  </a>
+</p>
 
+
+<p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,vscode,git,replit,postman" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,vue,nuxt,figma" />
   </a>
-  
+</p>
+
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=r,ps,linux,git,postman" />
+  </a>
 </p>
 
 
